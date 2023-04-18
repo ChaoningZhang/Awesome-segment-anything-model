@@ -11,4 +11,4 @@
 * [H2RBox-v2: Boosting HBox-supervised Oriented Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf)(2023/04/11)
 * [Segmenting Anything Also Detect Anything](https://wwwww.easychair.org/publications/preprint_download/HVhP)(2023/04/10)
 * [Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging](https://arxiv.org/pdf/2304.04155.pdf)(2023/04/09)
-* [Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks](https://arxiv.org/pdf/2304.03446.pdf)(2023/04/07)
+
