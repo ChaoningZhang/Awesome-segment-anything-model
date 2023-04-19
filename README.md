@@ -26,13 +26,18 @@ This work investigates the performance of the Segment Anything Model (SAM) pre-t
 
 <img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/J%40%5B_6Z6DP7GI8QYI%7D%60PHMKD.png" width="780" height="400" alt="Segment Anything" />
 
-* [STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training](https://arxiv.org/pdf/2304.06716)(2023/04/13)
-
-
-* [CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks](https://arxiv.org/pdf/2304.05653)(2023/04/12)
 * [SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM](https://arxiv.org/pdf/2304.05622.pdf)(2023/04/12)
-* [AGI for Agriculture](https://arxiv.org/pdf/2304.06136.pdf)(2023/04/12)
+
+This paper introduces the Segment Any Medical Model (SAMM), a 3D Slicer extension of the Segment Anything Model (SAM) for medical image segmentation. SAMM has demonstrated good promptability and generalizability and can infer masks in nearly real-time with 0.6-second latency. The open-source SAMM and its demonstrations are available on GitHub.
+
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/504(G3LC1C)%24%602ASDTIKONC.png" width="780" height="400" alt="Segment Anything" />
+
 * [Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection](https://arxiv.org/pdf/2304.04709)(2023/04/11)
+
+This paper investigates how well SAM performs in the task of Camouflaged Object Detection (COD) and compares SAM's performance to 22 state-of-the-art COD methods. 
+
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/9GCIT)PHA%5BU%25HEEE%60Y0B%7D_8.png" width="780" height="400" alt="Segment Anything" />
+
 * [H2RBox-v2: Boosting HBox-supervised Oriented Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf)(2023/04/11)
 * [Segmenting Anything Also Detect Anything](https://wwwww.easychair.org/publications/preprint_download/HVhP)(2023/04/10)
 * [Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging](https://arxiv.org/pdf/2304.04155.pdf)(2023/04/09)
