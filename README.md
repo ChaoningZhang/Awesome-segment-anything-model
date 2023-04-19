@@ -38,9 +38,17 @@ This paper investigates how well SAM performs in the task of Camouflaged Object 
 
 <img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/9GCIT)PHA%5BU%25HEEE%60Y0B%7D_8.png" width="780" height="400" alt="Segment Anything" />
 
-* [H2RBox-v2: Boosting HBox-supervised Oriented Object Detection via Symmetric Learning](https://arxiv.org/pdf/2304.04403.pdf)(2023/04/11)
 * [Segmenting Anything Also Detect Anything](https://wwwww.easychair.org/publications/preprint_download/HVhP)(2023/04/10)
+
+This paper proposes the use of computer vision macromodels (SAMs) to guide semi-automated annotation of data in the domain of specific object detection, and the High Fine Grain Fill-in Augmentation (HFGFA) method for visual image data augmentation. These approaches have been shown to improve model generalisation and open world object detection capabilities.
+
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/~IA%5DE%7D08%5D(%24WKHYF535IRSX.png" width="780" height="400" alt="Segment Anything" />
+
 * [Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging](https://arxiv.org/pdf/2304.04155.pdf)(2023/04/09)
+
+This study evaluates the SAM model's performance on whole slide imaging (WSI) tasks such as tumor segmentation, non-tumor tissue segmentation, and cell nuclei segmentation. The results suggest that the model performs well for large objects, but does not consistently perform well for dense instance object segmentation. Identified limitations for digital pathology include image resolution, multiple scales, prompt selection, and model fine-tuning. Future work should explore few-shot fine-tuning with images from downstream pathological segmentation tasks to improve performance.
+
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/E54BTV%40K3Q3O%40%25K8%7DW1%5DQ%7BP.png" width="780" height="400" alt="Segment Anything" />
 
 # Recent Projects
 
