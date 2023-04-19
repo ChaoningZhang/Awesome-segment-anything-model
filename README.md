@@ -1,4 +1,4 @@
-# Awesome-segment-anything-model
+# Awesome-segment-anything-model :octocat:
 
 * [Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool](https://arxiv.org/pdf/2304.04738.pdf)(2023/04/15)
 * [SAM Struggles in Concealed Scenes--Empirical Study on" Segment Anything"](https://arxiv.org/pdf/2304.06022.pdf)(2023/04/15)
