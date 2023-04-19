@@ -6,7 +6,7 @@
 
 **Original repo link:https://github.com/facebookresearch/segment-anything**
 
-# Recent Papers
+# Related Papers
 
 ### [Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool](https://arxiv.org/pdf/2304.04738.pdf)(2023/04/15)
 
@@ -50,7 +50,7 @@ This study evaluates the SAM model's performance on whole slide imaging (WSI) ta
 
 <img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/E54BTV%40K3Q3O%40%25K8%7DW1%5DQ%7BP.png" width="780" height="400" alt="Segment Anything" />
 
-# Recent Projects
+# Related Projects
 
 * [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything)
 * [GroundedSAM-zero-shot-anomaly-detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
