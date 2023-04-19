@@ -52,5 +52,36 @@ This study evaluates the SAM model's performance on whole slide imaging (WSI) ta
 
 # Recent Projects
 
-
+* [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything#grounded-segment-anything)
+* [GroundedSAM-zero-shot-anomaly-detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
+* Segment and Track Anything (SAM-Track) https://github.com/z-x-yang/Segment-and-Track-Anything
+* SEEM: Segment Everything Everywhere All at Once https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+* IEA: Image Editing Anything https://github.com/feizc/IEA
+* Semantic Segment Anything (SSA) https://github.com/fudan-zvg/Semantic-Segment-Anything
+* Segment Anything with Clip https://github.com/Curt-Park/segment-anything-with-clip
+* Magic Copy https://github.com/kevmo314/magic-copy
+* Edit Anything by Segment-Anything https://github.com/sail-sg/EditAnything
+* Prompt-Segment-Anything https://github.com/RockeyCoss/Prompt-Segment-Anything
+* SAM-RBox https://github.com/Li-Qingyun/sam-mmrotate
+* Segment-anything-with-image-captioning https://github.com/bnabis93/segment-anything-image-search
+* Open-vocabulary-Segment-Anything https://github.com/ngthanhtin/owlvit_segment_anything
+* SegDrawer https://github.com/lujiazho/SegDrawer
+* Label-Anything-Pipeline https://github.com/Yuqifan1117/Labal-Anything-Pipeline
+* MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors https://github.com/BingfengYan/VISAM
+* Segment Anything Model (SAM) in Napari https://github.com/MIC-DKFZ/napari-sam
+* Inpaint Anything: Segment Anything Meets Image Inpainting https://github.com/geekyutao/Inpaint-Anything
+* Segment Anything EO tools https://github.com/aliaksandr960/segment-anything-eo
+* napari-segment-anything https://github.com/JoOkuma/napari-segment-anything
+* Grounded Segment Anything: From Objects to Parts https://github.com/Cheems-Seminar/grounded-segment-any-parts
+* AnyLabeling https://github.com/vietanhdev/anylabeling
+* Caption-Anything https://github.com/ttengwang/Caption-Anything
+* Segment-Anything-U-Specify https://github.com/MaybeShewill-CV/segment-anything-u-specify
+* Optical Character Recognition with Segment Anything (OCR-SAM) https://github.com/yeungchenwa/OCR-SAM
+* https://github.com/camenduru/grounded-segment-anything-colab
+* SAM Medical Imaging https://github.com/amine0110/SAM-Medical-Imaging
+* Image.txt: Transform Image Into Unique Paragraph https://github.com/showlab/Image2Paragraph
+* LIME-SAM https://github.com/jaydeep-work/LIME-SAM
+* A simple demo for SAM+MMDetection https://github.com/liuyanyi/sam-with-mmdet
+* 3D-Box via Segment Anything https://github.com/dvlab-research/3D-Box-Segment-Anything
+* Anything-3D https://github.com/Anything-of-anything/Anything-3D
 
