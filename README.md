@@ -1,6 +1,6 @@
-# Awesome-segment-anything-model :octocat:
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/masks2.jpg" width="900" height="500" alt="Segment Anything" />
 
-<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/masks2.jpg" width="600" height="400" alt="Segment Anything" />
+# Awesome-segment-anything-model :octocat:
 
 **Original paper link:https://ai.facebook.com/research/publications/segment-anything/**
 
