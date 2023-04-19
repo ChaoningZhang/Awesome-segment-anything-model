@@ -4,6 +4,7 @@
 
 **Original repo link:https://github.com/facebookresearch/segment-anything**
 
+<img src="https://github.com/ChaoningZhang/Awesome-segment-anything-model/blob/main/fig/masks2.jpg" width="600" height="400" alt="Segment Anything" />
 
 
 # Recent Papers
