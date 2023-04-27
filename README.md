@@ -32,11 +32,19 @@
 
 ### [Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR](https://arxiv.org/abs/2304.07969)
 
+This paper presents a framework for utilizing the Segment Anything Model (SAM) to generate pseudo labels for pretraining thermal infrared image segmentation tasks, as well as a large scale thermal infrared segmentation dataset. This approach is an effective solution to work with large models in special fields where label annotation is challenging, and has been demonstrated to improve the accuracy of segmentation results beyond the SOTA ImageNet pretrained model.
+
 ### [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)(2023/04/13)
+
+This paper presents the first attempt of using GPT-4 to generate multimodal language-image instruction-following data. This data is used to create the Large Language and Vision Assistant (LLaVA), an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding. Early experiments show that LLaVA exhibits impressive chat abilities and yields a 85.1% relative score compared to GPT-4 on a synthetic multimodal instruction-following dataset. When fine-tuned on Science QA, the synergy of LLaVA and GPT-4 achieves a new state-of-the-art accuracy of 92.53%.
 
 ### [When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation](https://arxiv.org/pdf/2304.08506.pdf)(2023/04/21)
 
+This paper investigates the capability of the Segment Anything Model (SAM) for medical image analysis, specifically for multi-phase liver tumor segmentation (MPLiTS). Experiments demonstrate that there is a gap between SAM and expected performance, however, the qualitative results show that SAM is a powerful annotation tool for interactive medical image segmentation.
+
 ### [Can SAM Segment Polyps?](https://arxiv.org/pdf/2304.07583.pdf)(2023/04/15)
+
+This report evaluates the performance of the recently released Meta AI Research Segment Anything Model (SAM) in polyp segmentation under unprompted settings. Results of the evaluation are available publicly at https://github.com/taozh2017/SAMPolyp and could provide insights to advance the polyp segmentation field and inspire further research.
 
 ### [SAM Fails to Segment Anything? -SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://www.researchgate.net/publication/370025539_SAM_Fails_to_Segment_Anything_-SAM-Adaptor_Adapting_SAM_in_Underperformed_Scenes)(2023/04/15)
 
