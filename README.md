@@ -8,6 +8,40 @@
 
 # Related Papers
 
+### [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968)
+
+### [Segment Anything in Medical Images](https://arxiv.org/pdf/2304.12306)
+
+### [Segment Anything in Non-Euclidean Domains: Challenges and Opportunities](https://arxiv.org/pdf/2304.11595)
+
+### [Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model](https://arxiv.org/pdf/2304.11332)
+
+### [Downstream Task Self-Supervised Learning for Object Recognition and Tracking](https://search.proquest.com/openview/dd0fd0e68635132bbebbd95786f4f9e8/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+### [Advances in Deep Concealed Scene Understanding](https://arxiv.org/pdf/2304.11234)
+
+### [Text2Seg: Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models](https://arxiv.org/pdf/2304.10597)
+
+### [Any-to-Any Style Transfer](https://arxiv.org/pdf/2304.09728)
+
+### [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://arxiv.org/pdf/2304.10261)
+
+### [SAM Fails to Segment Anything?--SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More](https://arxiv.org/pdf/2304.09148)
+
+### [Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks](https://arxiv.org/abs/2304.09324)
+
+### [Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR](https://arxiv.org/abs/2304.07969)
+
+### [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)(2023/04/13)
+
+### [When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation](https://arxiv.org/pdf/2304.08506.pdf)(2023/04/21)
+
+### [Can SAM Segment Polyps?](https://arxiv.org/pdf/2304.07583.pdf)(2023/04/15)
+
+### [SAM Fails to Segment Anything? -SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://www.researchgate.net/publication/370025539_SAM_Fails_to_Segment_Anything_-SAM-Adaptor_Adapting_SAM_in_Underperformed_Scenes)(2023/04/15)
+
+### [Inpaint Anything: Segment Anything Meets Image Inpainting](https://arxiv.org/pdf/2304.06790.pdf)(2023/04/13)
+
 ### [Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool](https://arxiv.org/pdf/2304.04738.pdf)(2023/04/15)
 
 This paper compares the Segment Anything Model (SAM) with FSL's Brain Extraction Tool (BET) for brain extraction on different brain scans. Results show that SAM outperforms BET in various evaluation parameters, especially with signal inhomogeneities, non-isotropic voxel resolutions, or lesions near the brain's outer regions and meninges. SAM's superior performance suggests its potential as a more accurate, robust, and versatile tool for brain extraction and segmentation applications.
