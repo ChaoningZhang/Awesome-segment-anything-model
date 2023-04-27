@@ -40,7 +40,11 @@
 
 ### [SAM Fails to Segment Anything? -SAM-Adaptor: Adapting SAM in Underperformed Scenes](https://www.researchgate.net/publication/370025539_SAM_Fails_to_Segment_Anything_-SAM-Adaptor_Adapting_SAM_in_Underperformed_Scenes)(2023/04/15)
 
+This study proposes SAM-Adaptor, an image segmentation network incorporating domain-specific information or visual prompts into the large pre-trained model Segment Anything (SAM). Experimental findings show that SAM-Adaptor can significantly elevate SAM's performance in challenging tasks, such as shadow detection and camouflaged object detection, and even achieve state-of-the-art performance. It has potential applications in various fields, including medical image processing, agriculture, and remote sensing.
+
 ### [Inpaint Anything: Segment Anything Meets Image Inpainting](https://arxiv.org/pdf/2304.06790.pdf)(2023/04/13)
+
+This paper presents Inpaint Anything (IA), a mask-free image inpainting system based on Segment-Anything Model (SAM). IA has three features: (I) Remove Anything; (ii) Fill Anything with text-based prompts; and (iii) Replace Anything. 
 
 ### [Brain Extraction comparing Segment Anything Model (SAM) and FSL Brain Extraction Tool](https://arxiv.org/pdf/2304.04738.pdf)(2023/04/15)
 
